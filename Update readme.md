@@ -1,7 +1,9 @@
 TripleTen Data Science Projects
+
 Main Libraries: Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, Requests, Beautiful Soup, Scikit-Learn, AdaBoost, XGBoost, LightGBM, CatBoost, Tensorflow, Keras, PyTorch, Transformers, NLTK, SpaCy, Imbalanced-Learn, Optuna.
 
 Project	Title	Hands-on Skills
+
 Sprint-01-Project  Investigating how the number of votes a title receives from IMDb users impacts its ratings.
 
 Sprint-02-Project	 Instacart Data preprocessing and a report that gives insight into the shopping habits of Instacart customers.
