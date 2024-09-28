@@ -23,9 +23,16 @@ Sprint-08-Project	Developing a Customer Churn Prediction Model for a Bank	Data W
 Sprint-09-Project	Selecting the Most Profitable Oil Well Region with a Machine Learning Model	Data Visualisation, Regression Model, Bootstrapping
 
 Sprint-10-Project	Developing a Regression Model to Predict the Gold Recovery for a Digital Solution Provider	Data Wrangling, Data Visualisation, Regression Model (Multi-Output Regression)
+
 Sprint-11-Project	Customer Insurance Benefits Evaluation and Data Obfuscation: Applications of Machine Learning and Linear Algebra	Data Wrangling, Regression Model
+
 Sprint-12-Project	Developing a Machine Learning Model to Predict Car Prices	Data Wrangling, Data Visualisation, Regression Model
+
 Sprint-13-Project	Time Series Analysis and Forecasting on Taxi Order Amount	Data Visualisation, Regression Model, Time Series
+
 Sprint-14-Project	Sentiment Analysis on Movie Reviews	Data Visualisation, Classification Model, Natural Language Processing, Model Deployment
+
 Sprint-15-Project	Developing an Age Detector by Photo	Data Visualisation, Regression Model, Computer Vision	
+
 Sprint-17-Project  Telecom Customer Churn Prediction	Data Wrangling, Data Visualisation, EDA, Classification Model, Model Deployment
+
